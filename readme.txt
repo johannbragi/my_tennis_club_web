@@ -15,3 +15,6 @@ joh4nn_bragi@hotmail.com/admin
 ############# 
 Paths:
 http://localhost:8000/member/
+
+####
+eitthvað bull
